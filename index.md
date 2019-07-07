@@ -6,118 +6,126 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# Tecnología  - Mi experiencia y algunos datos más
 
 
-### Definition lists can be used with HTML syntax.
+### Experiencia en Proyectos
+- Trabajo en Equipos
+- Agile
+- Tools
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### Documentación
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+- [Agentes Virtuales](https://github.com/Mpozoc/Tecnologia/tree/master/Agentes%20Inteligentes)
+- Data Science
 
-```
-The final element.
-```
+  - [Introducción](https://github.com/Mpozoc/Tecnologia/blob/master/Intro_Datascience.md)  
+  - [Programación R](https://github.com/Mpozoc/Tecnologia/tree/master/Programación_R)
+
+
+### Reflexiones
+- Transformación digital
+- Innovación
+
+# Datascience
+## Qué es un Data Scientist?
+“Una persona que construye
+sistemas que intentan
+encontrar patrones en datos”
+
+## Por qué ahora?
+Las matemáticas no son nuevas. La programación no es nueva. Por qué ahora?
+-Ya generamos un montón de datos (Singularidad digital). Tipo superficie de Everest. Ya tenemos el poder computacional para procesar estos datos, y a su vez construir representaciones del mundo verdaderamente fuertes.
+
+## Qué es data science
+Esto no es sólo ingeniería, se necesita conocimiento de matemáticas y dominio del negocio
+
+<img src="https://blog.intact-systems.com/wp-content/uploads/2018/03/Technologies.png" width="350" height="300">
+
+Y lo más importante, esto es una ciencia, porque se necesita **experimentar**
+
+<img src="https://github.com/Mpozoc/Tecnologia/blob/master/Datascience/Images/experimentar.png" width="700" height="300">
+
+Principios de la ciencia de datos
+
+![](https://github.com/Mpozoc/Tecnologia/blob/master/Datascience/Images/etapas.png)
+
+Ahora que necesitamos hacer
+![](https://github.com/Mpozoc/Tecnologia/blob/master/Datascience/Images/pasos.png)
+
+
+## Plataforma Big Data
+Cuando hablamos de capacidad de almacenamiento y procesamiento a nivel de infraestructura/arquitectura, aparece concepto Big Data.  
+
+### Cómo podemos definir Big data? 5V
+- 5 V (Velocidad, volumen, variedad, veracidad, value)
+	- **Volumen**: Cuando hablamos de Peta byte 
+		- Hadoop
+		- Azure Blob storage
+	- **Variedad**: Data semi estructurada (XML, JSON) y no estructurada (logs, conversaciones
+		- Mongo DB data semi estructurada
+	- **Velocidad**: Cargas en streaming para captura de datos, orientados a reportes de near real time.
+	- **Veracidad**: Validación del dato
+	- **Value**: Valor de la información en el modelo, e ir descartando el ruido
+## Importación
+- ETL Batch
+- ETL Online
+
+## Orden y aplanamiento
+- Calidad y depuración de datos
+## Comprender
+
+<img src="https://github.com/Mpozoc/Tecnologia/blob/master/Datascience/Images/etapas.png" width="250" height="200">
+
+## Identificar
+	- Patrones Estadísticos numéricos
+	
+![](https://github.com/Mpozoc/Documentos/blob/master/Datascience/Images/graficos.png)
+
+		- Bar chart
+		- Scatter plot
+		- Histograma: Distribución de frecuencias
+		- Box Plot: Analysis de Min-Max y media
+		- Correlación lineal Positiva y Negativa
+	- Modelos Predictivos
+		- Clasificación
+			- Two-Class
+				- Decision tree
+				- Support Vector Machine
+			- Multi-Class
+				- Decision Forest
+				- Regresión Logistica
+				- Red Neuronal
+		- Regresión
+	- Segmentación (Cluster)
+		- K - Mean
+	- Modelos prescriptivo
+- Tipos de análisis
+	- Análisis de Texto
+		- STEM words
+		- Construct N-grams
+		- Vowpal  Wabbit
+		- Feature Hashing
+		- Named Entity Recognition
+	- Google Analytics
+	- Análisis de detección de Fuga (Churn analytics)
+	- Análisis Canasta (Market Basket)
+	
+
+## Comunicar (Viz Data)
+- Business Inteligence
+	- QLikview
+	- Power BI
+	- Google Data Studio
+
+## Machine Learning
+- Aprendizaje Supervisado
+- Aprendizaje no Supervisado
+
+
+
+
+
+
+
+
