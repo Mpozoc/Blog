@@ -2,9 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
 
 # Tecnología  - Mi experiencia y algunos datos más
 
@@ -19,7 +16,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 - [Agentes Virtuales](https://github.com/Mpozoc/Tecnologia/tree/master/Agentes%20Inteligentes)
 - Data Science
 
-  - [Introducción](https://github.com/Mpozoc/Tecnologia/blob/master/Intro_Datascience.md)  
+  - [Introducción a Datascience](./Intro_Datascience.html).
   - [Programación R](https://github.com/Mpozoc/Tecnologia/tree/master/Programación_R)
 
 
