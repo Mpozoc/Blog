@@ -2,25 +2,27 @@
 layout: default
 ---
 
+# TechBlog - Mi experiencia, documentos interesantes y algunos códigos...
 
-# Tecnología  - Mi experiencia y algunos datos más
+### Documentos
 
-
-### Experiencia en Proyectos
-- Trabajo en Equipos
-- Agile
-- Tools
-
-### Documentación
-
-- [Agentes Virtuales](https://github.com/Mpozoc/Tecnologia/tree/master/Agentes%20Inteligentes)
-- Data Science
-
-  - [Introducción a Datascience](./Intro_Datascience.html).
-  - [Programación R](https://github.com/Mpozoc/Tecnologia/tree/master/Programación_R)
+**- Innovación y Transformación Digital**
 
 
-### Reflexiones
+
+**- Data Science
+
+ - Business Inteligence vs Business Analytics
+ - Big Data
+ - [Introducción a Datascience](./Intro_Datascience.html) 
+    - [Programación R](https://github.com/Mpozoc/Tecnologia/tree/master/Programación_R)
+
+**-Inteligencia Artificial 
+
+  -[Agentes Inteligentes](https://github.com/Mpozoc/Tecnologia/tree/master/Agentes%20Inteligentes)
+  - Procesamiento Lenguaje Natural
+
+### Publicaciones
 - Transformación digital
 - Innovación
 
